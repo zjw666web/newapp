@@ -1,0 +1,12 @@
+{
+	"bannerList":[
+				{"imgsrc":"../../static/1.png"},
+				{"imgsrc":"../../static/2.png"},
+				{"imgsrc":"../../static/3.png"}
+				],
+	"tuijianList":[
+			{"imgsrc":"../../static/1.png","pid":"1001","price":"888"},
+			{"imgsrc":"../../static/2.png","pid":"1002","price":"888"},
+			{"imgsrc":"../../static/3.png","pid":"1003","price":"888"}
+			]
+}
